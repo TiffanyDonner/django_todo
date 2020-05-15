@@ -26,7 +26,7 @@ SECRET_KEY = 'row=j^_lky)k_(1qg1&b3!8#88)k5cd3s#ow72x&u^ih$v)r=1'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['simple-django-todo165.herokuapp.com']
 
 
 # Application definition
